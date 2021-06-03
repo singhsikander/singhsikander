@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on flutter and android
-- 📫 How to reach me by mail sikandersingh88@gmail.com  
+- 📫 How to reach me by mail sikandersingh883@gmail.com  
 
 <!---
 singhsikander/singhsikander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
